@@ -1,7 +1,7 @@
 package com.Variable;
 
 public class Non_StaticVariable {
-	int a=10;         //Non-static Global Variable.
+	 int a=10;         //Non-static Global Variable.
 	
 	public static void main(String[] args) {
 	

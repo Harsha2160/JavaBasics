@@ -5,6 +5,7 @@ package com.Encapsulation;
 //It provides you the control over the data. 
 //Suppose you want to set the value of id which should be greater than 100 only, you can write the logic inside the setter method. 
 //You can write the logic not to store the negative numbers in the setter methods.
+//POJO is a data carrier not data hider
 
 
 public class Encapsulation {

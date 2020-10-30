@@ -17,7 +17,7 @@ public class ArrayListConcept {
     System.out.println(ar.get(i));
 		
 	}
-    
+    ar.removeAll(ar);
     
     
 

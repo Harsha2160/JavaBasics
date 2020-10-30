@@ -13,8 +13,9 @@ c.refuel();
 		b.stop();
 		b.refuel();
 		b.performance();
-		Car c1=new BMW();//dynamic or Runtime Polymorphism
+		Car c1=new BMW();//Upcastig:casting to parent type. dynamic or Runtime Polymorphism
 		c1.start();
+		c1.stop();
 		//Cannot access exclusive methods of child. like performance().
 		
 		
